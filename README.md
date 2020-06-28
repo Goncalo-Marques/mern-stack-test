@@ -1,3 +1,14 @@
+# Test Mode
+
+### `Start Server - Terminal`
+cd backend
+nodemon server.js
+
+### `Start Frontend - Terminal`
+npm start
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
