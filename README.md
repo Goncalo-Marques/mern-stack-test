@@ -1,10 +1,12 @@
 # Test Mode
 
 ### `Start Server - Terminal`
-cd backend
+
+cd backend<br />
 nodemon server.js
 
 ### `Start Frontend - Terminal`
+
 npm start
 
 ---
